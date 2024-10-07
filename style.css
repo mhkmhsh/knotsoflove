@@ -1,6 +1,14 @@
-html{
+h1{
     font-family: "Libre Baskerville", serif;
+    color:#2e130b;
 }
 body{
-    background-color: #ffefc3,#b8c6ce;
+  
+    background-image: linear-gradient(#adc5cb,#c8dac8);
+    background-repeat: no-repeat;
+    color:#2e130b;
+}
+.container{
+    height: 100%;
+    width: 100%;
 }
